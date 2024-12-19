@@ -38,36 +38,36 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		},
 			attribute1 :
 			{
-				name : 'טיול לשוויץ',
+				name : 'זיכרון ישן',
 				title : {
-					media : {word : 'טיול לשוויץ'},
+					media : {word : 'זיכרון ישן'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'גלשתי עם בני דודים שלי'},
-					{word: 'היה צהריים והרגשתי רוח חזקה'},
-					{word: 'הסתנוורתי מלובן השלג'},
-					{word: 'בת דודתי התנגשה בעץ'},
-					{word: 'רסיסי שלג ניתזו עלי'}
+					{word: 'אני מפילה אותו לרצפה ומרביצה לו'},
+					{word: 'החולצה שלו התלכלכה'},
+					{word: 'צעקתי ואמרתי לו שלא יגע בי'},
+					{word: 'כל הכיתה עמדה מסביב במעגל'},
+					{word: 'אני מלמדת אותו לקח שלא מתעסקים איתי'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
 			},
 			attribute2 :
 			{
-				name : 'טיול לפריז',
+				name : 'זיכרון חדש',
 				title : {
-					media : {word : 'טיול לפריז'},
+					media : {word : 'זיכרון חדש'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'היה מלחיץ לעלות במעלית מזכוכית'},
-					{word: 'ראיתי ילד בגילי עם כובע צהוב'},
-					{word: 'אכלתי גלידת שוקולד במגדל'},
-					{word: 'התרגשתי מהנוף המדהים של העיר'},
-					{word: 'אנשים נראו לי כמו נמלים'}
+					{word: 'אני מבקשת ממנו שלא ניגרר לאלימות'},
+					{word: 'אני אומרת לו שיתפוס ממני מרחק'},
+					{word: 'אני לוקחת ממנו צעד אחורה'},
+					{word: 'הצלחתי לשלוט בדחף שלי להרביץ לו'},
+					{word: 'אני מתעלמת מההצקות שלו'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
