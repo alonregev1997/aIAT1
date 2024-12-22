@@ -3,9 +3,9 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 
 	return iatExtension({
 		category2 : {
-			name : 'אמת', //Will appear in the data.
+			name : 'הייי', //Will appear in the data.
 			title : {
-				media : {word : 'אמת'}, //Name of the category presented in the task.
+				media : {word : 'הייי'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -38,9 +38,9 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 		},
 			attribute1 :
 			{
-				name : 'טיול לשוויץ',
+				name : 'זיכרון ישן',
 				title : {
-					media : {word : 'טיול לשוויץ'},
+					media : {word : 'זיכרון ישן'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
@@ -49,16 +49,16 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					{word: 'אני מפחד ומרגיש לא קשור'},
 					{word: 'אין סיבה לשים לב אליי'},
 					{word: 'לא אכפת להם ממני'},
-					{word: 'בפינה שלי'}
+					{word: 'אני מרגיש שקוף'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
 			},
 			attribute2 :
 			{
-				name : 'טיול לפריז',
+				name : 'זיכרון חדש ',
 				title : {
-					media : {word : 'טיול לפריז'},
+					media : {word : 'זיכרון חדש'},
 					css : {color:'#0000FF','font-size':'2em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
