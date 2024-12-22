@@ -45,11 +45,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''}
+					{word: 'אני יושב לבד מקדימה'},
+					{word: 'אני מפחד ומרגיש לא קשור'},
+					{word: 'אין סיבה לשים לב אליי'},
+					{word: 'לא אכפת להם ממני'},
+					{word: 'בפינה שלי'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
@@ -63,11 +63,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''}
+					{word: 'שואל אותי מי אני'},
+					{word: 'מופתע לטובה'},
+					{word: 'מכיר יותר טוב'},
+					{word: 'במה אתה מתחרה?'},
+					{word: 'מישהו מכיתה ח' ניגש אליי'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
