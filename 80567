@@ -45,11 +45,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'אני יושב לבד מקדימה'},
-					{word: 'אני מפחד ומרגיש לא קשור'},
-					{word: 'אין סיבה לשים לב אליי'},
-					{word: 'לא אכפת להם ממני'},
-					{word: 'בפינה שלי'}
+					{word: 'nknה'},
+					{word: 'אני nknה ומרגיש לא nknה'},
+					{word: 'אין nknהליי'},
+					{word: 'לא nknהממני'},
+					{word: 'בפיnknהשלי'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
@@ -63,11 +63,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'שואל אותי מי אני'},
-					{word: 'מופתע לטובה'},
-					{word: 'מכיר יותר טוב'},
-					{word: 'במה אתה מתחרה?'},
-					{word: 'מישהו מכיתה ח' ניגש אליי'}
+					{word: 'שואnknהני'},
+					{word: 'מופnknהובה'},
+					{word: 'מכיnknהטוב'},
+					{word: 'במהnknהתחרה?'},
+					{word: 'מישהו מכיnknהש אליי'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
