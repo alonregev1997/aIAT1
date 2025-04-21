@@ -45,11 +45,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'גלשתי עם בני דודים שלי'},
-					{word: 'היה צהריים והרגשתי רוח חזקה'},
-					{word: 'הסתנוורתי מלובן השלג'},
-					{word: 'בת דודתי התנגשה בעץ'},
-					{word: 'רסיסי שלג ניתזו עלי'}
+					{word: 'מלמ מלמ מלמנכון י'},
+					{word: 'למ מלמ מלמ ינכון ה'},
+					{word: 'למ מלמ מלמ נכוןיג'},
+					{word: 'למ מלמ מלמ יץ'},
+					{word: 'רסילמ מלמ מלמ יי'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
@@ -63,11 +63,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'היה מלחיץ לעלות במעלית מזכוכית'},
-					{word: 'ראיתי ילד בגילי עם כובע צהוב'},
-					{word: 'אכלתי גלידת שוקולד במגדל'},
-					{word: 'התרגשתי מהנוף המדהים של העיר'},
-					{word: 'אנשים נראו לי כמו נמלים'}
+					{word: 'למ מלמ מלמ ית'},
+					{word: 'רלמ מלמ מלמ יוב'},
+					{word: 'אכלתי גלידת שוקולד במלמ מלמ מלמ י'},
+					{word: 'הלמ מלמ מלמ יהעיר'},
+					{word: 'אנלמ מלמ מלמ ילים'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
