@@ -49,7 +49,7 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					{word: 'לא דיברתי עם הבנים על מה כדאי לי לעשות'},
 					{word: 'לא התנצלתי בפניו'},
 					{word: 'הרגשתי לא בנוח לידו אחרי המקרה'},
-					{word: 'חשתי אשמה לאחר מכן'}
+					{word: 'חשתי אשמה ולא ידעתי מה לעשות'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
