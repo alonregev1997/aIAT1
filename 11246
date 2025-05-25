@@ -45,11 +45,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''}
+					{word: 'היא לא הגיבה על הדברים שאמרתי'},
+					{word: 'לא חשבתי שנוכל לחזור להיות חברות'},
+					{word: 'הרגשתי מבולבלת לאחר השיחה'},
+					{word: 'השתיקות שלה עשו לי רע'},
+					{word: 'ניסיתי להוציא ממנה רגש'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
@@ -63,11 +63,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''},
-					{word: ''}
+					{word: 'אחרי שסיימתי לדבר היא התנצלה ולקחה אחריות'},
+					{word: 'הרגשתי הקלה אחרי השיחה'},
+					{word: 'קיבלתי את ההתנצלות שלה'},
+					{word: 'הרגשתי שאכפת לה שהיא פגעה בי'},
+					{word: 'הרגשתי שנוכל לחזור להיות חברות'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
