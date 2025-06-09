@@ -45,11 +45,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'אבא כעס עליי על השארת האופניים'},
-					{word: 'חשתי אשמה על מעשיי'},
-					{word: 'רצתי לחדר לבכות'},
-					{word: 'בחוץ שמשי ונעים'},
-					{word: 'אבי אמר לי שעליי לרכב בזהירות'}
+					{word: 'אני מביכה את אמא מול המורה'},
+					{word: 'אני מובכת מחשיפת הציונים'},
+					{word: 'אני מרגישה כעס גדול'},
+					{word: 'הכל באשמת אמא'},
+					{word: 'אני מרגישה אשמה'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
@@ -63,11 +63,11 @@ define(['pipAPI', 'https://tmo286.github.io/scripts-for-Qualtrics/fullaiateng.js
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'בחוץ מעונן קריר וגשום'},
-					{word: 'אבי מנחם אותי'},
-					{word: 'אבי מטפל לי בפצע'},
-					{word: 'אבי עזר לי להביא את האופניים חזרה'},
-					{word: 'אני נרגע והולך לנוח'}
+					{word: 'אני מדברת עם המורה לפני הפגישה'},
+					{word: 'אני יודעת שאני צריכה עזרה'},
+					{word: 'אני מזכרה לעצמי שזאת תקופה לא קלה'},
+					{word: 'גם לאמא קשה'},
+					{word: 'אני עוד לא יודעת לדבר על רגשות'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.1em'}
